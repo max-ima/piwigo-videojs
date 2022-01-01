@@ -46,9 +46,9 @@ jQuery(".showInfo").tipTip({
 });
 {/literal}{/footer_script}
 
-Synchronization of metadata information and poster creation for videos.
+{'Synchronization of metadata information and poster creation for videos.'|@translate}
 <br/><br/>
-Refer to the <a href="https://github.com/xbgmsharp/piwigo-videojs/wiki" target="_blank">plugin documentation</a> for additional information. Create an <a href="https://github.com/xbgmsharp/piwigo-videojs/issues" target="_blank">issue</a> for support, or feedback, or feature request.
+{'Refer to the <a href="https://github.com/xbgmsharp/piwigo-videojs/wiki" target="_blank">plugin documentation</a> for additional information. Create an <a href="https://github.com/xbgmsharp/piwigo-videojs/issues" target="_blank">issue</a> for support, or feedback, or feature request.'|@translate}
 
 <div class="vjs_layout">
   <legend>{'Statistics'|@translate}</legend>
