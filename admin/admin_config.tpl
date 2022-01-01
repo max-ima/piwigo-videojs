@@ -27,9 +27,9 @@
 </style>
 {/html_head}
 
-This plugin add the open source HTML5 video player <a href="http://www.videojs.com/" target="_blank">VideoJS</a>.
+{'This plugin add the open source HTML5 video player <a href="http://www.videojs.com/" target="_blank">VideoJS'|@translate}</a>.
 <br/><br/>
-Refer to the <a href="https://github.com/xbgmsharp/piwigo-videojs/wiki" target="_blank">plugin documentation</a> for additional information. Create an <a href="https://github.com/xbgmsharp/piwigo-videojs/issues" target="_blank">issue</a> for support, or feedback, or feature request.
+{'Refer to the <a href="https://github.com/xbgmsharp/piwigo-videojs/wiki" target="_blank">plugin documentation</a> for additional information. Create an <a href="https://github.com/xbgmsharp/piwigo-videojs/issues" target="_blank">issue</a> for support, or feedback, or feature request.'|@translate}
 
 <div class="vjs_layout">
   <legend>{'Statistics'|@translate}</legend>
