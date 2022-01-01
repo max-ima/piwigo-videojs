@@ -55,4 +55,27 @@ $lang['SYNC_THUMBSEC_DESC'] = 'Create a thumbnail every x seconds.';
 $lang['SYNC_THUMBSIZE'] = 'Size of the thumbnail';
 $lang['SYNC_THUMBSIZE_DESC'] = 'Size in pixel, keep it small, default is fine, Youtube use 190x68.';
 
+$lang['This plugin add the open source HTML5 video player <a href="http://www.videojs.com/" target="_blank">VideoJS'] = 'This plugin add the open source HTML5 video player <a href="http://www.videojs.com/" target="_blank">VideoJS';
+$lang['Refer to the <a href="https://github.com/xbgmsharp/piwigo-videojs/wiki" target="_blank">plugin documentation</a> for additional information. Create an <a href="https://github.com/xbgmsharp/piwigo-videojs/issues" target="_blank">issue</a> for support, or feedback, or feature request.'] = 'Refer to the <a href="https://github.com/xbgmsharp/piwigo-videojs/wiki" target="_blank">plugin documentation</a> for additional information. Create an <a href="https://github.com/xbgmsharp/piwigo-videojs/issues" target="_blank">issue</a> for support, or feedback, or feature request.';
+$lang['videos in your gallery'] = 'videos in your gallery';
+$lang['videos with poster in your gallery'] = 'videos with poster in your gallery';
+$lang['PLAYER'] = 'Player';
+$lang['VideoJS plugin'] = 'VideoJS plugin';
+$lang['geotagged videos in your gallery'] = 'geotagged videos in your gallery';
+$lang['Synchronization of metadata information and poster creation for videos.'] = 'Synchronization of metadata information and poster creation for videos.';
+$lang['Program Dependencies'] = 'Program Dependencies';
+$lang[' binary path'] = ' binary path';
+$lang[' filesize, width, height, latitude, longitude, date_creation, rotation'] = ' filesize, width, height, latitude, longitude, date_creation, rotation';
+$lang['Synchronization results'] = 'Synchronization results';
+$lang['video(s) selected'] = 'video(s) selected';
+$lang['video(s) with metadata added'] = 'video(s) with metadata added';
+$lang['poster(s) created'] = 'poster(s) created';
+$lang['thumbnail(s) created'] = 'thumbnail(s) created';
+$lang['warnings during synchronization'] = 'warnings during synchronization';
+$lang['errors during synchronization'] = 'errors during synchronization';
+$lang[' must be install to allow video thumbnail and poster generation.'] = ' must be install to allow video thumbnail and poster generation.';
+$lang[' must be install to allow video metadata parsing.'] = ' must be install to allow video metadata parsing.';
+$lang['Require <a href="https://github.com/xbgmsharp/piwigo-videojs/wiki/How-to-add-videos#external-tools" target="_blank">\'MediaInfo\' or \'ffprobe\' or \'Exiftool\'</a> to be install.'] = 'Require <a href="https://github.com/xbgmsharp/piwigo-videojs/wiki/How-to-add-videos#external-tools" target="_blank">\'MediaInfo\' or \'ffprobe\' or \'Exiftool\'</a> to be install.';
+$lang['Require <a href="https://github.com/xbgmsharp/piwigo-videojs/wiki/How-to-add-videos#external-tools" target="_blank">\'FFmpeg\'</a> to be install.'] = 'Require <a href="https://github.com/xbgmsharp/piwigo-videojs/wiki/How-to-add-videos#external-tools" target="_blank">\'FFmpeg\'</a> to be install.</a>';
+$lang['Use by the videoJS plugin thumbnail'] = 'Use by the videoJS plugin thumbnail';
 ?>
